@@ -1,5 +1,5 @@
 # WeatherApp
-This repository contains the python script that allows users to extract weather information via city names or geolocation through the use of OpenWeather API
+This repository contains the program that allows users to extract weather information via city names or geolocation through the use of OpenWeather API
 
 Features
 * city_name(): function that allows users to retrieve weather details through a valid city name
